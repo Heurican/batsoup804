@@ -1,4 +1,1 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-Hey! I'm batsoup. I code in html, css, js, and python.
-Find me at batsoup#3060.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batsoup804)](https://github.com/anuraghazra/github-readme-stats)
