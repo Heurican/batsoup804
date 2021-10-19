@@ -1,3 +1,8 @@
+# Hi! I'm bat soup
+## I'm a younger developer with almost 3 years of experience with creating bots and scripts in Python.
+## I've been working on web apps with Javascript and plan to have a nice personal website up in few months.
+## My hope is to be developing games in C# and C++.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batsoup804&show_icons=true&theme=aura_dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batsoup804&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)"
