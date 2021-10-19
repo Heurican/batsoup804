@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batsoup804&show_icons=true&title_color=#008F38&text_color=#288D50&icon_color=#FF7C00&bg_color=#045438)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batsoup804&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batsoup804&show_icons=true&theme=aura_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batsoup804&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)"
 ### Find me on discord at
 <p>
   <img src="https://discord.c99.nl/widget/theme-1/756562171193852075.png" alt="bat soup#3060" />
