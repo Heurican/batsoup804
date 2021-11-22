@@ -10,7 +10,7 @@ I have a high-level knowledge of the discord API, HTML/CSS and using python to m
   <img src="https://discord.c99.nl/widget/theme-1/756562171193852075.png" alt="bat soup#3060" />
 </p>
 
-### <img src='https://img.shields.io/badge/Learning-C%23-blueviolet?style=forthebadge&logowidth=100'/>
+### <img src='https://img.shields.io/badge/Learning-C%23-blueviolet?style=forthebadge&logowidth=10000'/>
 
 
 ### Fluent in:
