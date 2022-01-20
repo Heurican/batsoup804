@@ -6,7 +6,7 @@ I have a high-level knowledge of the discord API, HTML/CSS and using python to m
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batsoup804&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)"
 <br>
-I'm a frequent contributor to [monkeytype.com](https://monkeytype.com/); I've added multiple themes including Modern Ink and Trackday, and multiple others are waiting to be added now.
+I'm a frequent contributor to [monkeytype.com](https://monkeytype.com/); I've added multiple themes including Modern Ink, Trackday and Fruit Chew (Big thanks to @adii-n and @teddinotteddy for that one), and multiple others are waiting to be added now.
 
 ## What I like to do:
 I really love custom mechanical keyboards (My own personal build is a DNA65 with GMK blue samurai and lubed purple pandas for anyone who wants to know), I love watching and playing soccer, I (obviously) do a bunch of coding and last but not least I snowboard- not very often as the season is short where I live but I do love it while it lasts.
