@@ -1,4 +1,4 @@
-# Hi! I'm bat soup
+# Hi! I'm Heurican
 I'm a younger developer- I have over 3 years of experience in developing in python and hardware manipulation.
 I have a high-level knowledge of the discord API, HTML/CSS and using python to manipulate .json files.
 
