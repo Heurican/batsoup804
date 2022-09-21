@@ -1,5 +1,21 @@
-Hi- I'm Sid. I'm bored when I eat, sleep and play video games so I code instead. A bunch of my stuff is probably stale because libraries update and my code doesn't. My main languages are Go and Python. I'm planning to switch to go for all my major applications and kind of wean off using python eventually.
+<div align="center">
+<img src="https://c.tenor.com/fQ27Zy3K3rAAAAAC/skeleton-dancing.gif" width="256" heigh="256">
+<h3>Hello there! I'm Sid.</h3>
+<br>
+I'm a high school student who loves to code and solve problems nobody has. On the web I go by vsenjoyer, because I really love using both Visual Studio 2022 and Visual Studio Code. Kind of a meaningless name, but it's what I chose.
 
-| Stats | Languages| Things I've done |
-| --- | ---| ---|
-|[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=quarkfield&theme=moltack)](https://github.com/quarkfield)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarkfield&theme=moltack)](https://github.com/quarkfield)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gogettercli&repo=cli&show_owner=true&theme=moltack)](https://github.com/gogettercli)|
+#
+
+
+<h3> Currently learning: </h3>
+<a href="https://vlang.io">V</a>
+-
+<a href="https://dotnet.microsoft.com/en-us/languages/fsharp">F#</a>
+-
+<a href="https://redis.com/">Redis</a>
+
+
+<h3> Skills and Proficiencies: </h3>
+
+<img src=".github/assets/csharp-lang.svg" width="48" height="48"/>
+<img src=".github/assets/c-lang.svg" width="48" height="48"/>
