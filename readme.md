@@ -13,9 +13,12 @@ I'm a high school student who loves to code and solve problems nobody has. On th
 <a href="https://dotnet.microsoft.com/en-us/languages/fsharp">F#</a>
 -
 <a href="https://redis.com/">Redis</a>
-
+-
+<a href="https://github.com/spectreconsole/spectre.console">Spectre .NET</a>
+-
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>
 
 <h3> Skills and Proficiencies: </h3>
 
 <img src=".github/assets/csharp-lang.svg" width="48" height="48"/>
-<img src=".github/assets/c-lang.svg" width="48" height="48"/>
+
